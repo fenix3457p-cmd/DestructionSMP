@@ -1,0 +1,21 @@
+name: DestructionSMP
+version: 1.0-SNAPSHOT
+main: org.fenix.destructionSMP
+api-version: '1.21'
+commands:
+  givemace:
+    description: Gives you the overpowered Mace of the Heavens!
+    permission: customweapons.admin
+    usage: /givemace
+  giveexcalibur:
+    description: Gives you Excalibur!
+    permission: customweapons.admin
+    usage: /giveexcalibur
+  givespear:
+    description: Gives you the Spear!
+    permission: customweapons.admin
+    usage: /givespear
+  givegodarmor:
+    description: Gives you the full God Armor set and a Warden Heart!
+    permission: customweapons.admin
+    usage: /givegodarmor
